@@ -1,0 +1,2 @@
+# lge_v700
+LG G PAD V700
